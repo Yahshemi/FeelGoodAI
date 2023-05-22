@@ -5,32 +5,32 @@ import ScrollParallax from "../../../components/ScrollParallax";
 
 const items = [
   {
-    title: "Download",
+    title: "Onboarding",
     color: "#3772FF",
     images: "/images/content/download.svg",
     content:
-      "Fitness Pro tracks your workouts, get better results, and be the best version of you.",
+      "Harmony gets to know you through a 3-5 minute voice conversation. We learn about who you are, where you are in your wellness journey, what your goals are, and what level of care you are looking for. After getting to know you, your profile is created with the information shared with Harmony.",
   },
   {
-    title: "Choose your trainner",
+    title: "Matching",
     color: "#9757D7",
     images: "/images/content/whistle.svg",
     content:
-      "Fitness Pro tracks your workouts, get better results, and be the best version of you.",
+      "Harmony then matches you to a coach that best fits you. Our AI-powered system ensures the best match for your unique needs and goals.",
   },
   {
-    title: "Set the goals",
+    title: "Personalized Plan",
     color: "#EF466F",
     images: "/images/content/medal.svg",
     content:
-      "Fitness Pro tracks your workouts, get better results, and be the best version of you.",
+      "Your matched coach creates a personalized wellness plan for you. This plan is dynamic and adjusts based on your progress and feedback.",
   },
   {
-    title: "Workout time",
+    title: "Begin your journey",
     color: "#45B26B",
     images: "/images/content/stopwatch.svg",
     content:
-      "Fitness Pro tracks your workouts, get better results, and be the best version of you.",
+      "Start your wellness journey with Feel Good AI. Live better, live longer, feel good.",
   },
 ];
 
@@ -41,8 +41,7 @@ const Steps = ({ scrollToRef }) => {
         <div className={styles.head}>
           <h2 className={cn("h2", styles.title)}>How it works</h2>
           <div className={styles.info}>
-            Stacks is a production-ready library of stackable content blocks
-            built in React Native.
+          Feel Good AI is a production-ready platform of stackable wellness modules built with advanced AI.
           </div>
         </div>
         <div className={styles.list}>

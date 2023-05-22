@@ -11,10 +11,10 @@ const Hero = ({ scrollToRef }) => {
             <div className={cn("container", styles.container)}>
                 <div className={styles.wrap}>
                     <div className={cn("stage", styles.stage)}>
-                    Feel Good AI - Wellness for the Modern Human
+                    Simple fitness experience for everyone.
                     </div>
                     <h1 className={cn("h1", styles.title)}>
-                        Simple fitness experience for everyone.
+                        Feel Good AI - Wellness for the Modern Human
                     </h1>
                     <div className={styles.text}>
                     Making preventative care accessible to everyone. Experience the future of wellness, personalized and powered by AI..

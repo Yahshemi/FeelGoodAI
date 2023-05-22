@@ -8,7 +8,7 @@ const items = [
   {
     title: "Intuitive and clean design",
     content:
-      "Track your workouts, get better results, and be the best version of you.",
+      "Harmony gets to know you through a 3-5 minute voice conversation. We learn about who you are, where you are in your wellness journey, what your goals are, and what level of care you are looking for. After getting to know you, your profile is created with the information shared with Harmony.",
     color: "#9757D7",
   },
   {

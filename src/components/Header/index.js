@@ -12,15 +12,15 @@ const navLinks = [
         url: "/features",
     },
     {
-        title: "Pricing",
+        title: "Membership",
         url: "/pricing",
     },
     {
-        title: "Download",
+        title: "Coaches",
         url: "/download",
     },
     {
-        title: "Class",
+        title: "Marketplace",
         content: {
             menu: [
                 {
@@ -105,17 +105,17 @@ const navLinks = [
         },
     },
     {
-        title: "Lifestyle",
+        title: "Partnership",
         url: "/lifestyle",
     },
 ];
 
 const socials = [
-    {
-        title: "facebook",
-        size: "16",
-        url: "https://www.facebook.com/ui8.net/",
-    },
+    // {
+    //     title: "facebook",
+    //     size: "16",
+    //     url: "https://www.facebook.com/ui8.net/",
+    // },
     {
         title: "twitter",
         size: "18",

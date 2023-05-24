@@ -9,28 +9,28 @@ const items = [
     color: "#3772FF",
     images: "/images/content/download.svg",
     content:
-      "Harmony gets to know you through a 3-5 minute voice conversation. We learn about who you are, where you are in your wellness journey, what your goals are, and what level of care you are looking for. After getting to know you, your profile is created with the information shared with Harmony.",
+      "Start a conversation with Harmony, our AI, who gets to know you, your goals, and your preferences. This includes choosing your focus area: fitness, nutrition, mindfulness, or spiritual wellness.",
   },
   {
-    title: "Matching",
+    title: "Match with a Coach",
     color: "#9757D7",
     images: "/images/content/whistle.svg",
     content:
-      "Harmony then matches you to a coach that best fits you. Our AI-powered system ensures the best match for your unique needs and goals.",
+      "Based on your focus and goals, you'll be matched with a coach whose specialty aligns with your needs. Whether you're looking to run a faster 40yd dash, recover from an injury, or simply improve your overall fitness, we have a coach for you.",
   },
   {
-    title: "Personalized Plan",
+    title: "Personalized Plan Creation",
     color: "#EF466F",
     images: "/images/content/medal.svg",
     content:
-      "Your matched coach creates a personalized wellness plan for you. This plan is dynamic and adjusts based on your progress and feedback.",
+      "Your coach, powered by Feel Good AI, creates a personalized wellness plan tailored to your needs.",
   },
   {
     title: "Begin your journey",
     color: "#45B26B",
     images: "/images/content/stopwatch.svg",
     content:
-      "Start your wellness journey with Feel Good AI. Live better, live longer, feel good.",
+      "Start your wellness journey with Feel Good AI and your coach. Engage in focused conversations, explore new wellness topics, and follow your personalized plan. Your wellness journey is just a conversation away.",
   },
 ];
 

@@ -50,10 +50,10 @@ const courses = [
 ];
 
 const socials = [
-  {
-    type: "facebook",
-    url: "https://facebook.com",
-  },
+  // {
+  //   type: "facebook",
+  //   url: "https://facebook.com",
+  // },
   {
     type: "instagram",
     url: "https://instagram.com",

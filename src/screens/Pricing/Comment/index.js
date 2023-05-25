@@ -8,47 +8,47 @@ import styles from "./Comment.module.sass";
 
 const items = [
   {
-    title: "Fitness",
+    title: "Harmony Co-Pilot",
     url: "/class02-details",
     image: "/images/content/plates.png",
     image2x: "/images/content/plates@2x.png",
     content: "Great physique",
   },
   {
-    title: "Gymnastic",
+    title: "Stride Co-Pilot",
     url: "/class02-details",
     image: "/images/content/yoga-mat.png",
     image2x: "/images/content/yoga-mat@2x.png",
     content: "Enhanced strength",
   },
   {
-    title: "Basketball",
+    title: "Nourish Co-Pilot",
     url: "/class02-details",
     image: "/images/content/ball.png",
     image2x: "/images/content/ball@2x.png",
     content: "Relax $ work efficiently",
   },
   {
-    title: "Yoga",
+    title: "Unity Co-Pilot",
     url: "/class02-details",
     image: "/images/content/yoga-mat.png",
     image2x: "/images/content/yoga-mat@2x.png",
     content: "Perfect physique",
   },
-  {
-    title: "Fitness",
-    url: "/class02-details",
-    image: "/images/content/plates.png",
-    image2x: "/images/content/plates@2x.png",
-    content: "Great physique",
-  },
-  {
-    title: "Gymnastic",
-    url: "/class02-details",
-    image: "/images/content/yoga-mat.png",
-    image2x: "/images/content/yoga-mat@2x.png",
-    content: "Enhanced strength",
-  },
+  // {
+  //   title: "Fitness",
+  //   url: "/class02-details",
+  //   image: "/images/content/plates.png",
+  //   image2x: "/images/content/plates@2x.png",
+  //   content: "Great physique",
+  // },
+  // {
+  //   title: "Gymnastic",
+  //   url: "/class02-details",
+  //   image: "/images/content/yoga-mat.png",
+  //   image2x: "/images/content/yoga-mat@2x.png",
+  //   content: "Enhanced strength",
+  // },
 ];
 
 const SlickArrow = ({ currentSlide, slideCount, children, ...props }) => (

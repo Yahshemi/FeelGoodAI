@@ -8,60 +8,60 @@ const options = [
     title: "Main features",
     items: [
       {
-        title: "Time-Trackers",
+        title: "Personalized Wellness Plans",
         description: "Some Text",
       },
       {
-        title: "Exclusive Music",
+        title: "AI-Powered Fitness & Nutrition Coaching",
         description: "Some Text",
       },
       {
-        title: "E-books",
+        title: "Mindfulness & Spiritual Guidance",
         description: "Some Text",
       },
       {
-        title: "Documents",
+        title: "24/7 Support from AI Wellness Professionals",
         description: "Some Text",
       },
       {
-        title: "Premium Tutorial",
+        title: "Access to a Community of Wellness Enthusiasts",
         description: "Some Text",
       },
-      {
-        title: "Client Support",
-        description: "Some Text",
-      },
-      {
-        title: "Premium Courses",
-        description: "Some Text",
-      },
-      {
-        title: "User support",
-        description: "Some Text",
-      },
-      {
-        title: "Chat to trainers",
-        description: "Some Text",
-      },
-      {
-        title: "Unlimited Videos",
-        description: "Some Text",
-      },
+      // {
+      //   title: "Direct Chat with Wellness Professionals",
+      //   description: "Some Text",
+      // },
+      // {
+      //   title: "Premium Courses",
+      //   description: "Some Text",
+      // },
+      // {
+      //   title: "User support",
+      //   description: "Some Text",
+      // },
+      // {
+      //   title: "Chat to trainers",
+      //   description: "Some Text",
+      // },
+      // {
+      //   title: "Unlimited Videos",
+      //   description: "Some Text",
+      // },
     ],
   },
 ];
 
 const data = [
   {
-    title: "Free Trial",
+    title: "Mind",
     color: "#9757D7",
-    description: "14 days of free trial",
-    price: "0",
-    note: "per month",
+    description: "Harmony + Unity Co-Pilots",
+    price: "15",
+    note: "per month or $150/year",
     button: "Start free trial",
     options: [
       "true",
-      "true",
+      "false",
       "true",
       "false",
       "true",
@@ -73,16 +73,16 @@ const data = [
     ],
   },
   {
-    title: "Premium",
+    title: "Body",
     color: "#FF592C",
-    description: "Fit with everyone",
-    price: "20.88",
-    note: "per month",
+    description: "Nourish + Stride Co-Pilots",
+    price: "20",
+    note: "per month or $200/year",
     button: "Get Started",
     options: [
       "true",
       "true",
-      "true",
+      "false",
       "true",
       "true",
       "true",
@@ -93,9 +93,11 @@ const data = [
     ],
   },
   {
-    title: "Unlimited Access",
+    title: "Mind + Body",
     color: "#EF466F",
-    description: "Are you pro? Let’s do it",
+    description: "All-In-One Wellness",
+    price: "30",
+    note: "per month or $300/year",
     button: "Contact Sale",
     options: [
       "true",
@@ -136,10 +138,10 @@ const Plan = () => {
     <div className={cn("section-bg", styles.section)}>
       <div className={cn("container", styles.container)}>
         <div className={cn("stage", styles.stage)}>
-          get stronger with fitness pro
+        Choose a co-pilot that’s right for you
         </div>
         <h1 className={cn("h1", styles.title)}>
-          Choose a plan that’s right for you
+        EMBRACE WELLNESS WITH FEEL GOOD AI
         </h1>
         <div className={styles.table}>
           <div className={styles.row}>

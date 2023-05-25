@@ -11,6 +11,7 @@ import Workouts from "../../components/Workouts";
 import Advantages from "../../components/Advantages";
 import Offer from "../../components/Offer";
 import Lifestyle from "./Lifestyle";
+import CoPilots from "./CoPilots";
 
 const Features = () => {
   const scrollToRef = useRef(null);
@@ -20,7 +21,8 @@ const Features = () => {
       <Hero scrollToRef={scrollToRef} />
       <Intro scrollToRef={scrollToRef} />
       <ValueProps className="section-pb" />
-      <Program />
+      <CoPilots />
+      {/* <Program /> */}
       <About />
       <Review className="section-pb64" />
       <Clients />

@@ -31,31 +31,31 @@ const menu = [
 ];
 
 const socials = [
-    {
-        title: "facebook",
-        size: "16",
-        url: "https://www.facebook.com/ui8.net/",
-    },
+    // {
+    //     title: "facebook",
+    //     size: "16",
+    //     url: "https://www.facebook.com/ui8.net/",
+    // },
     {
         title: "twitter",
         size: "18",
-        url: "https://twitter.com/ui8",
+        url: "https://twitter.com/feelgoodai",
     },
     {
         title: "instagram",
         size: "16",
-        url: "https://www.instagram.com/ui8net/",
-    },
-    {
-        title: "dribbble",
-        size: "16",
-        url: "https://dribbble.com/ui8",
-    },
-    {
-        title: "behance",
-        size: "20",
-        url: "https://www.behance.net/ui8",
-    },
+        url: "https://www.instagram.com/feelgoodai",
+    }
+    // {
+    //     title: "dribbble",
+    //     size: "16",
+    //     url: "https://dribbble.com/ui8",
+    // },
+    // {
+    //     title: "behance",
+    //     size: "20",
+    //     url: "https://www.behance.net/ui8",
+    // },
 ];
 
 const Footer = () => {

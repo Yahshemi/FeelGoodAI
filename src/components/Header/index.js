@@ -12,6 +12,10 @@ const navLinks = [
         url: "/features",
     },
     {
+        title: "Lifestyle",
+        url: "/lifestyle",
+    },
+    {
         title: "Membership",
         url: "/pricing",
     },
@@ -104,10 +108,6 @@ const navLinks = [
             ],
         },
     },
-    {
-        title: "Partnership",
-        url: "/lifestyle",
-    },
 ];
 
 const socials = [
@@ -119,12 +119,12 @@ const socials = [
     {
         title: "twitter",
         size: "18",
-        url: "https://twitter.com/ui8",
+        url: "https://twitter.com/feelgoodai",
     },
     {
         title: "instagram",
         size: "16",
-        url: "https://www.instagram.com/ui8net/",
+        url: "https://www.instagram.com/feelgoodai",
     },
 ];
 

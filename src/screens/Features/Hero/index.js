@@ -12,14 +12,13 @@ const Hero = ({ scrollToRef }) => {
       <div className={cn("container", styles.container)}>
         <div className={styles.wrap}>
           <div className={cn("stage", styles.stage)}>
-            Train smarter. get stronger
+          Feel Good AI - Wellness for the Modern Human
           </div>
           <h1 className={cn("h1", styles.title)}>
-            Simple fitness experience for everyone.
+          Your Personalized Wellness Copilots
           </h1>
           <div className={styles.text}>
-            Track your workouts, get better results, and be the bestversion of
-            you. Less thinking, more lifting.
+          Feel Good AI is your comprehensive wellness platform, powered by AI. We offer personalized wellness copilots that guide you on your journey to better health and wellbeing. Less thinking, more living.
           </div>
           <div className={styles.btns}>
             <Link className={cn("button", styles.button)} to="/download">
@@ -29,7 +28,7 @@ const Hero = ({ scrollToRef }) => {
               className={cn("button-stroke", styles.button)}
               to="/class02-details"
             >
-              Book a Class
+              Start Now
             </Link>
           </div>
         </div>

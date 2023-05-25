@@ -6,9 +6,9 @@ import Community from "../../components/Community";
 const Download = () => {
     return (
         <>
-            <Hero />
+            {/* <Hero />
             <Platform />
-            <Community />
+            <Community /> */}
         </>
     );
 };

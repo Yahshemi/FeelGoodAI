@@ -21,7 +21,7 @@ const navLinks = [
     },
     {
         title: "Coaches",
-        url: "/download",
+        url: "/coaches",
     },
     {
         title: "Marketplace",

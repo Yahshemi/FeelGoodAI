@@ -4,7 +4,7 @@ import Page from "./components/Page";
 import Home from "./screens/Home";
 import Features from "./screens/Features";
 import Pricing from "./screens/Pricing";
-import Download from "./screens/Download";
+import Coaches from "./screens/Coaches";
 import Class01 from "./screens/Class01";
 import Class01Details from "./screens/Class01Details";
 import Class02 from "./screens/Class02";
@@ -41,10 +41,10 @@ function App() {
                     }
                 />
                 <Route
-                    path="download"
+                    path="coaches"
                     element={
                         <Page>
-                            <Download />
+                            <Coaches />
                         </Page>
                     }
                 />

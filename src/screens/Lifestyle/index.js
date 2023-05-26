@@ -6,7 +6,7 @@ const Lifestyle = () => {
     return (
         <>
             <Hero />
-            {/* <Community /> */}
+            <Community />
         </>
     );
 };

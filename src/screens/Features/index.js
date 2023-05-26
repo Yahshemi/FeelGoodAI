@@ -3,7 +3,7 @@ import React, { useRef } from "react";
 import Hero from "./Hero";
 import Intro from "../../components/Intro";
 import ValueProps from "../../components/ValueProps";
-import Program from "./Program";
+// import Program from "./Program";
 import About from "./About";
 import Review from "../../components/Review";
 import Clients from "../../components/Clients";
@@ -19,7 +19,7 @@ const Features = () => {
   return (
     <>
       <Hero scrollToRef={scrollToRef} />
-      <Intro scrollToRef={scrollToRef} />
+      {/* <Intro scrollToRef={scrollToRef} /> */}
       <ValueProps className="section-pb" />
       <CoPilots />
       {/* <Program /> */}

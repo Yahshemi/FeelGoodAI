@@ -34,27 +34,25 @@ const Item = ({ item }) => {
                     </div>
                     <div className={styles.col}>
                         <div className={styles.info}>
-                            You don’t need to do anything else
+                            {/* You don’t need to do anything else */}
                         </div>
                         <div className={styles.content}>
                             <p>
-                                Mix-and-match dozens of responsive elements to
-                                quickly configure your favorite landing page
-                                layouts.
+                            Feel Good AI is a wellness platform that offers four AI co-pilots: 
+                            Stride, Nourish, Harmony, and Unity. 
                             </p>
                             <p>
-                                Or hit the ground running with 10 pre-built
-                                templates, all in light or dark mode."{" "}
+                            Each co-pilot is designed to help you in different aspects of your wellness journey.
                             </p>
                         </div>
-                        <button
+                        {/* <button
                             className={cn(
                                 "button-stroke button-small",
                                 styles.button
                             )}
                         >
                             Learn more
-                        </button>
+                        </button> */}
                     </div>
                 </div>
             </div>

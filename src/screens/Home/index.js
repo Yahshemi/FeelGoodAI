@@ -20,17 +20,16 @@ const Home = () => {
   return (
     <>
       <Hero scrollToRef={scrollToRef} />
-      <Clients />
+      {/* <Clients /> */}
       <Steps scrollToRef={scrollToRef} />
       <Intro />
       <Book />
-      <ValueProps className="section" />
-      <About />
-      <Team />
-      <Review className="section" />
-      <Quality />
-      <Advantages />
-      <Workouts />
+      {/* <ValueProps className="section" /> */}
+÷      {/* <Team /> */}
+      {/* <Review className="section" /> */}
+      {/* <Quality /> */}
+      {/* <Advantages /> */}
+      {/* <Workouts /> */}
       <Offer className="section-border-top" />
     </>
   );

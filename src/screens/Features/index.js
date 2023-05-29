@@ -20,15 +20,15 @@ const Features = () => {
     <>
       <Hero scrollToRef={scrollToRef} />
       {/* <Intro scrollToRef={scrollToRef} /> */}
-      <ValueProps className="section-pb" />
+      {/* <ValueProps className="section-pb" /> */}
       <CoPilots />
       {/* <Program /> */}
-      <About />
-      <Review className="section-pb64" />
-      <Clients />
+      {/* <About /> */}
+      {/* <Review className="section-pb64" /> */}
+      {/* <Clients /> */}
       <Workouts />
-      <Lifestyle />
-      <Advantages />
+      {/* <Lifestyle /> */}
+      {/* <Advantages /> */}
       <Offer className="section" />
     </>
   );

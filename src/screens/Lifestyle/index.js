@@ -1,12 +1,16 @@
 import React from "react";
-import Hero from "./Hero";
-import Community from "../../components/Community";
+// import Hero from "./Hero";
+// import Community from "../../components/Community";
+import Post from "./Post";
+import Story from "./Story";
 
 const Lifestyle = () => {
     return (
         <>
-            <Hero />
-            <Community />
+            <Post />
+            {/* <Hero /> */}
+            {/* <Community /> */}
+            <Story />
         </>
     );
 };

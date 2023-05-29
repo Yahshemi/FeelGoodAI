@@ -6,11 +6,11 @@ import Image from "../Image";
 import ScrollParallax from "../ScrollParallax";
 
 const items = [
-  "Fitness Pro Cloud",
-  "Syncs with Google Fit",
-  "Syncs with Apple Health",
-  "Track your progress easily",
-  "Intuitive and clean design",
+  "Feel Good AI Synergy",
+  "Seamlessly Integrates with Your Daily Routines",
+  "Customized Wellness Journeys",
+  "Effortless Progress Tracking",
+  "User-Centric, Intuitive Design",
 ];
 
 const Workouts = () => {
@@ -44,11 +44,11 @@ const Workouts = () => {
         </div>
         <div className={styles.wrap}>
           <h2 className={cn("h2", styles.title)}>
-            All your workouts, <br></br>in your pocket
+            All your wellness, <br></br>in one place
           </h2>
           <div className={styles.info}>
-            Fitness Pro helps track your workouts, get better results, and be
-            the best version of you. Less thinking!
+          Feel Good AI - your personalized wellness co-pilot for a balanced,
+          vibrant life. Less guesswork, more growth!
           </div>
           <ul className={styles.list}>
             {items.map((x, index) => (
@@ -59,10 +59,10 @@ const Workouts = () => {
           </ul>
           <div className={styles.btns}>
             <Link className={cn("button", styles.button)} to="/pricing">
-              Choose Plan
+            Select Your Co-Pilot
             </Link>
             <button className={cn("button-stroke", styles.button)}>
-              Request a demo
+              Request a Demo
             </button>
           </div>
         </div>

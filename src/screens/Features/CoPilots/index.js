@@ -9,28 +9,28 @@ import styles from "./Copilots.module.sass";
 const items = [
   {
     title: "Harmony Co-Pilot",
-    url: "/class02-details",
+    url: "../CoPilotFeatures",
     image: "/images/content/plates.png",
     image2x: "/images/content/plates@2x.png",
     content: "Your Guide to Holistic Wellness and Lifelong Learning",
   },
   {
     title: "Stride Co-Pilot",
-    url: "/class02-details",
+    url: "../CoPilotFeatures",
     image: "/images/content/yoga-mat.png",
     image2x: "/images/content/yoga-mat@2x.png",
     content: "Your Ally in Achieving Peak Fitness and Longevity",
   },
   {
     title: "Nourish Co-Pilot",
-    url: "/class02-details",
+    url: "../CoPilotFeatures",
     image: "/images/content/ball.png",
     image2x: "/images/content/ball@2x.png",
     content: "Your Guide to Longevity and Vitality",
   },
   {
     title: "Unity Co-Pilot",
-    url: "/class02-details",
+    url: "../CoPilotFeatures",
     image: "/images/content/yoga-mat.png",
     image2x: "/images/content/yoga-mat@2x.png",
     content: "Your Spiritual Guide and Companion",

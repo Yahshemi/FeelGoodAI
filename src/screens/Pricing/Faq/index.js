@@ -9,39 +9,39 @@ const items = [
     title: "General",
     items: [
       {
-        title: "How do I register for an in-person class?",
+        title: "What is Feel Good AI?",
       },
       {
-        title: "What is the status of my Fitness Pro membership?",
+        title: "How does Feel Good AI contribute to non-profit organizations?",
       },
       {
-        title: "How old does my child need to be to participate in class?",
+        title: "How does Feel Good AI handle my data?",
       },
       {
-        title: "Do I have to be a member to take class?",
+        title: "Can I use Feel Good AI if I'm not tech-savvy?",
       },
       {
-        title: "Can I join a class once it’s in session?",
+        title: "How does Feel Good AI support its users?join a class once it’s in session?",
       },
       {
-        title: "Do I need to buy a yoga mat, towel, or equipment? ",
+        title: "How does Feel Good AI ensure the quality of its services?",
       },
     ],
   },
   {
-    title: "Trainers",
+    title: "Co-pilot",
     items: [
       {
-        title: "How do I register for an in-person class?",
+        title: "What is the Stride co-pilot?",
       },
       {
-        title: "What is the status of my Fitness Pro membership?",
+        title: "What is the Nourish co-pilot?",
       },
       {
-        title: "Can I join a class once it’s in session?",
+        title: "What is the Harmony co-pilot?",
       },
       {
-        title: "Do I need to buy a yoga mat, towel, or equipment? ",
+        title: "What is the Unity co-pilot?",
       },
     ],
   },
@@ -49,46 +49,46 @@ const items = [
     title: "Subscription",
     items: [
       {
-        title: "How do I register for an in-person class?",
+        title: "How much does a Feel Good AI subscription cost?",
       },
       {
-        title: "What is the status of my Fitness Pro membership?",
+        title: "What does the subscription include?",
       },
       {
-        title: "How old does my child need to be to participate in class?",
+        title: "How does the partnership membership work?",
       },
       {
-        title: "Do I have to be a member to take class?",
+        title: "Can I cancel my subscription at any time?",
       },
-      {
-        title: "Can I join a class once it’s in session?",
-      },
-      {
-        title: "Do I need to buy a yoga mat, towel, or equipment? ",
-      },
+      // {
+      //   title: "Can I join a class once it’s in session?",
+      // },
+      // {
+      //   title: "Do I need to buy a yoga mat, towel, or equipment? ",
+      // },
     ],
   },
   {
-    title: "Class",
+    title: "Coaches",
     items: [
       {
-        title: "How do I register for an in-person class?",
+        title: "What is the role of human coaches in Feel Good AI?",
       },
       {
-        title: "What is the status of my Fitness Pro membership?",
+        title: "How can I become a coach on Feel Good AI?",
       },
       {
-        title: "How old does my child need to be to participate in class?",
+        title: "Do coaches have to be certified or have specific qualifications to join Feel Good AI?",
       },
       {
-        title: "Do I have to be a member to take class?",
+        title: "How are coaches compensated on Feel Good AI?",
       },
       {
-        title: "Can I join a class once it’s in session?",
+        title: "Can coaches interact directly with users on Feel Good AI?",
       },
-      {
-        title: "Do I need to buy a yoga mat, towel, or equipment? ",
-      },
+      // {
+      //   title: "Do I need to buy a yoga mat, towel, or equipment? ",
+      // },
     ],
   },
 ];

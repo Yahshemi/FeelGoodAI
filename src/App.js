@@ -11,6 +11,7 @@ import Class02 from "./screens/Class02";
 import Class02Details from "./screens/Class02Details";
 import Lifestyle from "./screens/Lifestyle";
 import Article from "./screens/Article";
+import CoPilotFeatures from "./screens/CoPilotFeatures";
 
 function App() {
     return (
@@ -97,6 +98,14 @@ function App() {
                     }
                 />
             </Route>
+            <Route
+                    path="copilotfeatures"
+                    element={
+                        <Page>
+                            <CoPilotFeatures />
+                        </Page>
+                    }
+                />
         </Routes>
     );
 }

@@ -30,12 +30,8 @@
   "eslintConfig": {
       "rules": {
         "rule-name": "off"
-      },
+      }
   
-    "extends": [
-      "react-app",
-      "react-app/jest"
-    ]
   },
   "browserslist": {
     "production": [
